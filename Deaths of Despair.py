@@ -251,4 +251,5 @@ def Regression_Output():
     resultFile.write(RegResults)
     resultFile.close()
 
+#Write results of regression
 Regression_Output()
