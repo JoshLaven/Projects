@@ -1,0 +1,33 @@
+year,unitid,inst_name,state_name,number_applied,number_admitted,number_enrolled_ft,sat_math_25_pctl
+2016,104179,University of Arizona,Arizona,36166,28433,5997,
+2016,166027,Harvard University,Massachusetts,39041,2110,1663,720
+2015,104179,University of Arizona,Arizona,35408,27061,6973,
+2015,166027,Harvard University,Massachusetts,37307,2080,1660,700
+2014,104179,University of Arizona,Arizona,32723,24417,7052,
+2014,166027,Harvard University,Massachusetts,34295,2045,1654,710
+2013,104179,University of Arizona,Arizona,26329,20251,6955,500
+2013,166027,Harvard University,Massachusetts,35023,2047,1659,710
+2012,104179,University of Arizona,Arizona,26854,19172,6874,490
+2012,166027,Harvard University,Massachusetts,34216,1989,1664,710
+2011,104179,University of Arizona,Arizona,26629,20068,6804,490
+2011,166027,Harvard University,Massachusetts,34950,2188,1661,700
+2010,104179,University of Arizona,Arizona,26629,20068,6804,470
+2010,166027,Harvard University,Massachusetts,30489,2205,1665,700
+2009,104179,University of Arizona,Arizona,24756,19310,6768,490
+2009,166027,Harvard University,Massachusetts,29025,2088,1663,690
+2008,104179,University of Arizona,Arizona,22544,18158,6331,500
+2008,166027,Harvard University,Massachusetts,27380,2095,1658,700
+2007,104179,University of Arizona,Arizona,25449,19703,7698,490
+2007,166027,Harvard University,Massachusetts,22868,2022,1659,700
+2006,104179,University of Arizona,Arizona,16609,14293,5788,500
+2006,166027,Harvard University,Massachusetts,22645,2019,1684,700
+2005,104179,University of Arizona,Arizona,17904,15701,5785,500
+2005,166027,Harvard University,Massachusetts,22715,2023,1640,700
+2004,104179,UNIVERSITY OF ARIZONA,Arizona,23725,19788,5566,500
+2004,166027,HARVARD UNIVERSITY,Massachusetts,19690,2054,1638,700
+2003,104179,UNIVERSITY OF ARIZONA,Arizona,21185,18021,5780,500
+2003,166027,HARVARD UNIVERSITY,Massachusetts,20987,2095,1635,700
+2002,104179,UNIVERSITY OF ARIZONA,Arizona,19832,16973,5613,500
+2002,166027,HARVARD UNIVERSITY,Massachusetts,19527,1985,1549,700
+2001,104179,UNIVERSITY OF ARIZONA,Arizona,19719,16613,5727,500
+2001,166027,HARVARD UNIVERSITY,Massachusetts,18932,2028,1563,700
